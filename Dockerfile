@@ -1,4 +1,4 @@
-FROM anasty17/mltb:latest
+FROM woodcraftbot/angel:stable
 
 WORKDIR /usr/src/app
 RUN chmod 777 /usr/src/app
